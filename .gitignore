@@ -25,3 +25,4 @@ languages/*.mo
 languages/*.po
 languages/*.json
 !languages/coblocks.json
+package-lock.json
